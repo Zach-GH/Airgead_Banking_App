@@ -1,12 +1,6 @@
 #include "UserData.h"
 
 UserData currUser;
-double currInitInvest;
-double currMonthDep;
-double currAnnualInt;
-int currYear;
-const int numMonths = 12;
-unsigned int i;
 
 using namespace std;
 
